@@ -1,6 +1,6 @@
 using System;
 
-namespace aula01Ambev.Model
+namespace aula01.Model
 {
     public class ClientePf : Pessoa {
         public override void VerificaDocumento(string _documento) {

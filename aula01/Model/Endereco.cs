@@ -1,6 +1,6 @@
 using System;
 
-namespace aula01Ambev.Model
+namespace aula01.Model
 {
     public class Endereco {
         public string logradouro { get; set; }

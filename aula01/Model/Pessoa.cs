@@ -1,6 +1,6 @@
 using System;
 
-namespace aula01Ambev.Model {
+namespace aula01.Model {
     public class Pessoa {
         public int id { get; set; }
         public string nome { get; set; }
