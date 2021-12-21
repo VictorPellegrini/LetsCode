@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using aula01.Model;
 
-
 public class Filiais
     {
         public List<Filial> filiais { get; private set;}
@@ -31,6 +30,4 @@ public class Filiais
 
             return false;
         }
-
-
     }

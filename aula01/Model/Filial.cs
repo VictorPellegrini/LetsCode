@@ -1,4 +1,3 @@
-
 namespace aula01.Model
 {
     public class Filial
@@ -8,7 +7,5 @@ namespace aula01.Model
         public string nome { get; set; }
 
         public Endereco endereco { get; set; }
-
-        
     }
 }
