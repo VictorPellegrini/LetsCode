@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace aula01.Model
+﻿namespace aula01.Model
 {
 	public class Produto
 	{

@@ -1,8 +1,7 @@
-using System;
-
 namespace aula01.Model
 {
-    public class Endereco {
+    public class Endereco 
+    {
         public string logradouro { get; set; }
         public string nome { get; set; }
         public int numero { get; set; }

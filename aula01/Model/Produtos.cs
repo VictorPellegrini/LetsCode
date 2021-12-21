@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using aula01.Model;
 
 namespace aula01.Model
 {
